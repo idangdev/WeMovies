@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">WeMovies</string>
+    <string name="judul_film">Judul Film</string>
+    <string name="release_date">Release Date</string>
+    <string name="deskripsi_film">Ini adalah deskripsi film pada aplikasi WeMovies</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="deskripsi">Overview</string>
+    <string name="title_bookmark">Bookmark</string>
+</resources>
